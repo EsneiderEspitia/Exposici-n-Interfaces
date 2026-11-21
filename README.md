@@ -1,2 +1,2 @@
-# Exposici-n-Interfaces
-Carlos Espitia, Angel 
+# Exposición-Interfaces
+Carlos Espitia, Angel Cuenú, KEvin garcía
